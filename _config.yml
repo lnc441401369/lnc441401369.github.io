@@ -106,3 +106,5 @@ friends: [
         href: "http://globaltechmap.com/document/edit"
     }
 ]
+
+theme: jekyll-theme-cayman
